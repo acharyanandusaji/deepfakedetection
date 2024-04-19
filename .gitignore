@@ -1,0 +1,12 @@
+venv
+deepfakedetect
+dpfdetect
+.vs
+.vscode
+models/*
+!models/Readme.txt
+uploaded_images/*
+!uploaded_images/Readme.txt
+uploaded_videos/*
+!uploaded_videos/Readme.txt
+
